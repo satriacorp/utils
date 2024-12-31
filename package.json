@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "name": "@satriacorp/utils",
+  "description": "satriacorp util for backend, frontend, processing & etc",
+  "license": "MIT",
+  "keywords": [
+    "satriacorp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satriacorp/utils.git"
+  },
+  "homepage": "https://satriacorp.com",
+  "main": "src/index.js"
+}
